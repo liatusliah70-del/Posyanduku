@@ -1,0 +1,6 @@
+{
+  "name": "Posyanduku",
+  "description": "Sistem Informasi Posyandu 6 Bidang SPM Kabupaten Indramayu - DPMD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
